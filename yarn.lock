@@ -4898,10 +4898,10 @@
     d3-shape "^1.2.0"
     prop-types "^15.6.2"
 
-"@visx/grid@2.6.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@visx/grid/-/grid-2.6.0.tgz#bb24e88dafd3eba3a867a4327dc9dad32bfda2be"
-  integrity sha512-LH4yioffUZRT1ic3KSYqhimF6GPZCs3jzv4Xdz5gNVsSbEY4BOQyulxtq8375Z80DpLwK1VQAMxoNdj1EDkxIg==
+"@visx/grid@2.9.2":
+  version "2.9.2"
+  resolved "https://registry.yarnpkg.com/@visx/grid/-/grid-2.9.2.tgz#9839caf9ea1c5b80d3117c57554d8b16ddbd55cc"
+  integrity sha512-ASRK5LhUo+kNGzjPwh0Af5/nUbfb64/yGRg39gp04DoA+2aiNtglLPj9IyMm9M+lQ0nJwQwxbxy8Av0rLemrPg==
   dependencies:
     "@types/react" "*"
     "@visx/curve" "2.1.0"
@@ -4926,14 +4926,14 @@
   resolved "https://registry.yarnpkg.com/@visx/point/-/point-2.6.0.tgz#c4316ca409b5b829c5455f07118d8c14a92cc633"
   integrity sha512-amBi7yMz4S2VSchlPdliznN41TuES64506ySI22DeKQ+mc1s1+BudlpnY90sM1EIw4xnqbKmrghTTGfy6SVqvQ==
 
-"@visx/react-spring@2.6.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@visx/react-spring/-/react-spring-2.6.0.tgz#e21c2b38c1303924e6ecd348550ef3574fc214c6"
-  integrity sha512-HSDxVjsHuptAJ4ho+gDGI9CSduFz9vOSUHEP72wI1lSq5SJ/uvw7sE9BcvLE8zZZT4D83NzFyViuYBqB7M1sVw==
+"@visx/react-spring@2.9.2":
+  version "2.9.2"
+  resolved "https://registry.yarnpkg.com/@visx/react-spring/-/react-spring-2.9.2.tgz#72abfba3f7c9c3c30a60c42381716d333db764ca"
+  integrity sha512-ESsEDtNQJywx9tQBlMpXQRK0OjUD+R7kYkra1848afDt27EEpQePNKzBRdoKlSQwP4iU1LO4Q3wopT3r67i8dw==
   dependencies:
     "@types/react" "*"
     "@visx/axis" "2.6.0"
-    "@visx/grid" "2.6.0"
+    "@visx/grid" "2.9.2"
     "@visx/scale" "2.2.2"
     "@visx/text" "2.3.0"
     classnames "^2.3.1"
@@ -5014,10 +5014,10 @@
     d3-voronoi "^1.1.2"
     prop-types "^15.6.1"
 
-"@visx/xychart@^2.9.0":
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/@visx/xychart/-/xychart-2.9.0.tgz#74bbe56de3f3a923aff7d06d73473dc0559503d4"
-  integrity sha512-WC5qY6GrOwuwwmnwZVZgv8x766P0X18bj8pj1jKKeAHed9Bx1mo/huO8QRQZHZoR5pR/r1/L6QTTem6WxFqeSQ==
+"@visx/xychart@^2.9.2":
+  version "2.9.2"
+  resolved "https://registry.yarnpkg.com/@visx/xychart/-/xychart-2.9.2.tgz#e03b62738cbfa1522f711b099b884e93a18e9b6f"
+  integrity sha512-1Dn80YCawObrfCtfItdgYjhgvhz+yyIykkAa+2+NklVfO5yjvPDlPpkn5ehNdyzPbcSnuX7fLMfPgXgesieuEQ==
   dependencies:
     "@types/lodash" "^4.14.172"
     "@types/react" "*"
@@ -5025,8 +5025,8 @@
     "@visx/axis" "2.6.0"
     "@visx/event" "2.6.0"
     "@visx/glyph" "2.1.2"
-    "@visx/grid" "2.6.0"
-    "@visx/react-spring" "2.6.0"
+    "@visx/grid" "2.9.2"
+    "@visx/react-spring" "2.9.2"
     "@visx/responsive" "2.8.0"
     "@visx/scale" "2.2.2"
     "@visx/shape" "2.4.0"
