@@ -24,7 +24,7 @@ const DATA_GRID_FORCED_PROPS: { [key in DataGridForcedPropsKey]?: DataGridProces
   signature: 'DataGrid',
 };
 
-export const MAX_PAGE_SIZE = 100;
+export const MAX_PAGE_SIZE = 100000000;
 
 export const useDataGridProps = (inProps: DataGridProps) => {
   if (inProps.pageSize! > MAX_PAGE_SIZE) {
