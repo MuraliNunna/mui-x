@@ -30,7 +30,7 @@ const DATA_GRID_FORCED_PROPS: { [key in DataGridForcedPropsKey]?: DataGridProces
   signature: 'DataGrid',
 };
 
-export const MAX_PAGE_SIZE = 100;
+export const MAX_PAGE_SIZE = 10000000;
 
 /**
  * The default values of `DataGridPropsWithDefaultValues` to inject in the props of DataGrid.
